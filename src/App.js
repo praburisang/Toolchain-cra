@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>ini adalah gw</p>        
       </header>
     </div>
   );
