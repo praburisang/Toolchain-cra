@@ -1,0 +1,19 @@
+Chapter 3 - The Toolchain
+    > Create React App (CRA)
+        - usually when people want to make react app they're using CRA for initialization
+        - theres a feature called react refresh that allow change in  DOM without refreshing in browser
+    
+    > init CRA
+        - to initialize CRA we can visit this link https://github.com/facebook/create-react-app
+    
+    > understanding contents inside project react using CRA
+        - node modules : manage dependencies
+        - public : folder to put static files
+        - src : where we put our code
+
+    > making component in separate file
+        - make regular JS file
+        - make the function
+        - export function : export default FunctionName
+        - import to designated file : import FunctionName from 'file location'
+    
