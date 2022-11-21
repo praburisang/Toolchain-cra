@@ -11,9 +11,15 @@ Chapter 3 - The Toolchain
         - public : folder to put static files
         - src : where we put our code
 
-    > making component in separate file
+    > making component in separate file (SoC)
         - make regular JS file
         - make the function
         - export function : export default FunctionName
         - import to designated file : import FunctionName from 'file location'
+        - use . to indicate its from the same folder
+        - we can also use export in front of function
+        - use {} to import that isnt default function
+        - we can use props.children to change the contents
+    
+    
     
