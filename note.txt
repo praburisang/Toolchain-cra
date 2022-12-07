@@ -24,4 +24,12 @@ Chapter 3 - The Toolchain
     > syling in CRA
         - we can use style cra component in css file, same as usual
     
-    
+Chapter 4 - React Router
+    > Intro
+        - react router is third party react library not an official one
+        - this library allow us to make single page applicaation
+        - install it with npm install react-router-dom localforage match-sorter sort-by
+    > basic route  
+        - start wit browserrouter
+        - define routes in app
+        - use link to navigate between git 
